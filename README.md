@@ -5,7 +5,7 @@
 
 <br/>
 
-> [!NOTE] 
+> [!NOTE]
 > Welcome to my GitHub profile! I'm constantly exploring new technologies and building projects that bridge the gap between development, operations, and security. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on open-source projects or discuss cloud infrastructure.
 
 <br/>
@@ -25,27 +25,34 @@ I believe in building secure, scalable, and maintainable systems from the ground
 
 <br/>
 
-## Core Competencies & Languages
+## Activity
 
 <div align="center">
-  <!-- Languages Metric -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_indepth=yes" alt="Language Metrics" />
+  <img src="assets/metrics/activity.svg" alt="Activity" />
 </div>
 
 <br/>
 
-## Code & Commit Habits
+## Languages
 
 <div align="center">
-  <!-- Isometric Commit Calendar -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Isometric Calendar" />
+  <img src="assets/metrics/languages.svg" alt="Languages" />
 </div>
 
 <br/>
 
+## Commit Calendar
+
 <div align="center">
-  <!-- Coding Habits -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes" alt="Habits Metrics" />
+  <img src="assets/metrics/isocalendar.svg" alt="Isometric Calendar" />
+</div>
+
+<br/>
+
+## Coding Habits
+
+<div align="center">
+  <img src="assets/metrics/habits.svg" alt="Habits" />
 </div>
 
 <br/>
@@ -53,6 +60,5 @@ I believe in building secure, scalable, and maintainable systems from the ground
 ## Achievements
 
 <div align="center">
-  <!-- GitHub Achievements -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=detailed" alt="Achievements" />
+  <img src="assets/metrics/achievements.svg" alt="Achievements" />
 </div>

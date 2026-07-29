@@ -1,40 +1,58 @@
 <div align="center">
+  <!-- PLACE YOUR GIF WALLPAPER OR BANNER HERE -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner GIF Placeholder" width="100%" style="border-radius: 15px;" />
+</div>
 
-<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
-     panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
+<br/>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+> [!NOTE] 
+> Welcome to my GitHub profile! I'm constantly exploring new technologies and building projects that bridge the gap between development, operations, and security. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on open-source projects or discuss cloud infrastructure.
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<br/>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<h1 align="center">Hi, I'm [Your Name]</h1>
+<h3 align="center">Fullstack Developer | DevOps & Cloud Engineer | Cyber Security Enthusiast</h3>
 
-<br>
-<br>
+<br/>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+## About My Approach
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
-</tr>
-</table>
+I believe in building secure, scalable, and maintainable systems from the ground up. My approach blends the rapid development of modern full-stack architectures with the robustness of cloud-native infrastructure, all while adhering to the principle of "Security by Design".
 
-<br>
-<br>
+* **Development Philosophy**: Striving for clean architecture and performant code. I enjoy working across the entire stack to deliver seamless user experiences.
+* **DevOps & Infrastructure**: Automating everything. I design CI/CD pipelines that enforce quality checks and streamline deployments. Infrastructure as Code (IaC) is my go-to for reproducible environments.
+* **Security Mindset**: Security isn't an afterthought. I proactively look for vulnerabilities, apply secure coding practices, and implement continuous security scanning (DevSecOps) to safeguard data and infrastructure.
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<br/>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+## Core Competencies & Languages
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+<div align="center">
+  <!-- Languages Metric -->
+  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_indepth=yes" alt="Language Metrics" />
+</div>
 
-<br>
+<br/>
 
+## Code & Commit Habits
+
+<div align="center">
+  <!-- Isometric Commit Calendar -->
+  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Isometric Calendar" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Coding Habits -->
+  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes" alt="Habits Metrics" />
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+  <!-- GitHub Achievements -->
+  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=detailed" alt="Achievements" />
 </div>

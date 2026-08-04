@@ -1,70 +1,56 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Techin</h1>
-
+<!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Techin&fontSize=60&fontAlignY=35&desc=DevOps%20&%20Cloud%20Infrastructure%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Banner">
 </div>
 
-<br/>
+<br>
+
+<h3 align="center">
+    Automating complexity, securing delivery, and scaling infrastructure with high reliability.
+</h3>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" align="center" width="48%">
-        <img src="eris.svg" width="100%" style="border-radius: 12px;" />
-      </td>
-      <td valign="top" align="center" width="48%">
-        <img src="info-card.svg" width="100%" style="border-radius: 12px;" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<br/>
-
-## About My Approach
-
-I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
-
-**CI/CD & Deployment Automation**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
-**Cloud Infrastructure**: Utilizing cloud services (like **AWS**) to build scalable and highly available environments.
-**Infrastructure as Code (IaC) & Containers**: Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
-
-<br/>
-
-## Activity
+<br>
 
 <div align="center">
-  <img src="assets/metrics/activity.svg" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Architectures;Creating+Robust+CI%2FCD+Pipelines;Automating+Infrastructure+with+Code;Passionate+about+DevOps+%26+AWS" alt="Typing SVG" />
 </div>
 
-<br/>
+---
 
-## Languages
+### 🛠️ About My Approach & Tech Stack
+
+I believe in **automating everything** and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and Infrastructure as Code, primarily leveraging cloud platforms like AWS.
+
+<br>
 
 <div align="center">
-  <img src="assets/metrics/languages.svg" alt="Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,bash,nginx,ubuntu,git,python,js&perline=6" alt="DevOps Tech Stack" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-## Commit Calendar
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="assets/metrics/isocalendar.svg" alt="Isometric Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iMookatayou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMookatayou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
-
-## Coding Habits
+<br>
 
 <div align="center">
-  <img src="assets/metrics/habits.svg" alt="Habits" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMookatayou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
-<br/>
-
-## Achievements
+---
 
 <div align="center">
-  <img src="assets/metrics/achievements.svg" alt="Achievements" />
+  <img src="https://komarev.com/ghpvc/?username=iMookatayou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>

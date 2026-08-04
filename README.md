@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Techin</h1>
+<h1 align="center">Hi 👋, I'm Techin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## About My Approach
@@ -35,40 +35,8 @@ I believe in automating everything and building scalable, reliable systems. My a
 
 <br/>
 
-## Activity
-
-<div align="center">
-  <img src="assets/metrics/activity.svg" alt="Activity" />
-</div>
-
-<br/>
-
-## Languages
-
 <div align="center">
   <img src="assets/metrics/languages.svg" alt="Languages" />
 </div>
 
 <br/>
-
-## Commit Calendar
-
-<div align="center">
-  <img src="assets/metrics/isocalendar.svg" alt="Isometric Calendar" />
-</div>
-
-<br/>
-
-## Coding Habits
-
-<div align="center">
-  <img src="assets/metrics/habits.svg" alt="Habits" />
-</div>
-
-<br/>
-
-## Achievements
-
-<div align="center">
-  <img src="assets/metrics/achievements.svg" alt="Achievements" />
-</div>

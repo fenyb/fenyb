@@ -6,6 +6,21 @@
 
 <br/>
 
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" align="center" width="48%">
+        <img src="eris.svg" width="100%" style="border-radius: 12px;" />
+      </td>
+      <td valign="top" align="center" width="48%">
+        <img src="info-card.svg" width="100%" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ## About My Approach
 
 I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
@@ -13,12 +28,6 @@ I believe in automating everything and building scalable, reliable systems. My a
 **CI/CD & Deployment Automation**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
 **Cloud Infrastructure**: Utilizing cloud services (like **AWS**) to build scalable and highly available environments.
 **Infrastructure as Code (IaC) & Containers**: Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,linux,bash,nginx,ubuntu,git" alt="DevOps Tech Stack" />
-  </a>
-</p>
 
 <br/>
 

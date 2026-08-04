@@ -39,18 +39,12 @@ I believe in **automating everything** and building scalable, reliable systems. 
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iMookatayou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMookatayou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=iMookatayou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iMookatayou?label=Followers&color=0e75b6&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/iMookatayou?label=Repositories&color=0e75b6&style=flat" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/iMookatayou?label=Stars%20Earned&color=0e75b6&style=flat" alt="Stars" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMookatayou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iMookatayou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>

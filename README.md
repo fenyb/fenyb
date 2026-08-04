@@ -10,8 +10,8 @@
 </h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <br>
@@ -29,22 +29,39 @@ I believe in **automating everything** and building scalable, reliable systems. 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <br/><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="Nginx">
   <br/><br/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
 </div>
 
 <br>
 
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iMookatayou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMookatayou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMookatayou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iMookatayou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>

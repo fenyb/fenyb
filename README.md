@@ -4,25 +4,11 @@
 
 ## About My Approach
 
-```yaml
-# approach.yaml - Engineering Philosophy & Core Pillars
+I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
 
-philosophy: "I believe in automating everything and building scalable, reliable systems."
-mission: "Bridging development & operations via robust CI/CD and Infrastructure as Code."
-
-pillars:
-  ci_cd_automation:
-    scope: "Software Development Lifecycle"
-    deliverables: "Automated pipelines, quality enforcement, and reliable deployments"
-
-  cloud_infrastructure:
-    platform: "Amazon Web Services (AWS)"
-    architecture: "Scalable, resilient, and highly available cloud environments"
-
-  iac_and_containers:
-    provisioning: "Terraform (Infrastructure as Code)"
-    orchestration: "Docker & Kubernetes (Containerized Workloads)"
-```
+- **CI/CD & Deployment Automation**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
+- **Cloud Infrastructure**: Utilizing cloud services (like **AWS**) to build scalable, resilient, and highly available environments.
+- **Infrastructure as Code (IaC) & Containers**: Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
 
 <br/>
 

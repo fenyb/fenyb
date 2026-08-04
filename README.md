@@ -4,26 +4,25 @@
 
 ## About My Approach
 
-> **Philosophy**: *I believe in automating everything and building scalable, reliable systems — bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.*
+```yaml
+# approach.yaml - Engineering Philosophy & Core Pillars
 
-<br/>
+philosophy: "I believe in automating everything and building scalable, reliable systems."
+mission: "Bridging development & operations via robust CI/CD and Infrastructure as Code."
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>CI/CD Automation</h4>
-      <p>Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Cloud Infrastructure</h4>
-      <p>Utilizing cloud services (like <b>AWS</b>) to build scalable, resilient, and highly available environments.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>IaC & Containers</h4>
-      <p>Managing and provisioning infrastructure through code (<b>Terraform</b>) and containerizing/orchestrating services (<b>Docker</b>, <b>Kubernetes</b>) for reproducible environments.</p>
-    </td>
-  </tr>
-</table>
+pillars:
+  ci_cd_automation:
+    scope: "Software Development Lifecycle"
+    deliverables: "Automated pipelines, quality enforcement, and reliable deployments"
+
+  cloud_infrastructure:
+    platform: "Amazon Web Services (AWS)"
+    architecture: "Scalable, resilient, and highly available cloud environments"
+
+  iac_and_containers:
+    provisioning: "Terraform (Infrastructure as Code)"
+    orchestration: "Docker & Kubernetes (Containerized Workloads)"
+```
 
 <br/>
 

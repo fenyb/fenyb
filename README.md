@@ -1,51 +1,55 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Techin</h1>
+
 <div align="center">
-  <!-- PLACE YOUR GIF WALLPAPER OR BANNER HERE -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner GIF Placeholder" width="100%" style="border-radius: 15px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Automation+Enthusiast" alt="Typing SVG" />
 </div>
-
-<br/>
-
-> [!NOTE] 
-> <p align="left"><a>You can fork the repository or download the ZIP file to access and apply the wallpapers locally. The wallpapers are organized into separate folders based on their respective themes, which may appear mixed or unordered when viewed directly on GitHub. Downloading the project ensures you can properly browse the categorized folders and use the wallpapers as intended.</a></p>
-
-<br/>
-
-<h1 align="center">Hi, I'm [Your Name]</h1>
-<h3 align="center">Fullstack Developer | DevOps & Cloud Engineer | Cyber Security Enthusiast</h3>
 
 <br/>
 
 ## About My Approach
 
-I believe in building secure, scalable, and maintainable systems from the ground up. My approach blends the rapid development of modern full-stack architectures with the robustness of cloud-native infrastructure, all while adhering to the principle of "Security by Design".
+I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
 
-* **Development Philosophy**: Striving for clean architecture and performant code. I enjoy working across the entire stack to deliver seamless user experiences.
-* **DevOps & Infrastructure**: Automating everything. I design CI/CD pipelines that enforce quality checks and streamline deployments. Infrastructure as Code (IaC) is my go-to for reproducible environments.
-* **Security Mindset**: Security isn't an afterthought. I proactively look for vulnerabilities, apply secure coding practices, and implement continuous security scanning (DevSecOps) to safeguard data and infrastructure.
+**CI/CD & Deployment Automation**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
+**Cloud Infrastructure**: Utilizing cloud services (like **AWS**) to build scalable and highly available environments.
+**Infrastructure as Code (IaC) & Containers**: Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,linux,bash,nginx,ubuntu,git" alt="DevOps Tech Stack" />
+  </a>
+</p>
 
 <br/>
 
-## Languages & Core Competencies
+## Activity
 
 <div align="center">
-  <!-- Only Languages Metric -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_indepth=yes" alt="Language Metrics" />
+  <img src="assets/metrics/activity.svg" alt="Activity" />
 </div>
 
 <br/>
 
-## Code & Commit Habits
+## Languages
 
 <div align="center">
-  <!-- Only Isometric Commit Calendar -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Isometric Calendar" />
+  <img src="assets/metrics/languages.svg" alt="Languages" />
 </div>
 
 <br/>
 
+## Commit Calendar
+
 <div align="center">
-  <!-- Only Coding Habits -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes" alt="Habits Metrics" />
+  <img src="assets/metrics/isocalendar.svg" alt="Isometric Calendar" />
+</div>
+
+<br/>
+
+## Coding Habits
+
+<div align="center">
+  <img src="assets/metrics/habits.svg" alt="Habits" />
 </div>
 
 <br/>
@@ -53,6 +57,5 @@ I believe in building secure, scalable, and maintainable systems from the ground
 ## Achievements
 
 <div align="center">
-  <!-- Only GitHub Achievements -->
-  <img src="https://metrics.lecoq.io/MOCK_USERNAME?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=detailed" alt="Achievements" />
+  <img src="assets/metrics/achievements.svg" alt="Achievements" />
 </div>

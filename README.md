@@ -1,22 +1,26 @@
-<br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Techin</h1>
 
-> [!NOTE]
-> Welcome to my GitHub profile! I'm passionate about streamlining software delivery and managing robust infrastructure. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on open-source DevOps projects or discuss cloud infrastructure like AWS.
-
-<br/>
-
-<h1 align="center">Hi, I'm [Your Name]</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Automation+Enthusiast" alt="Typing SVG" />
+</div>
 
 <br/>
 
-## About My Approach
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="28" height="28" /> About My Approach
 
 I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
 
-* **DevOps & CI/CD**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
-* **Cloud Infrastructure**: Utilizing cloud services (like AWS) to build scalable and highly available environments.
-* **Infrastructure as Code (IaC)**: Managing and provisioning infrastructure through code for reproducible and consistent environments.
+**CI/CD & Deployment Automation**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
+**Cloud Infrastructure**: Utilizing cloud services (like **AWS**) to build scalable and highly available environments.
+**Infrastructure as Code (IaC) & Containers**: Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28" /> Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,linux,bash,nginx,ubuntu,git" alt="DevOps Tech Stack" />
+  </a>
+</p>
 
 <br/>
 

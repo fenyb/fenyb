@@ -8,14 +8,22 @@
 
 <br/>
 
-- **CI/CD & Deployment Automation**  
-  Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
-
-- **Cloud Infrastructure**  
-  Utilizing cloud services (like **AWS**) to build scalable, resilient, and highly available environments.
-
-- **Infrastructure as Code (IaC) & Containers**  
-  Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>CI/CD Automation</h4>
+      <p>Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Cloud Infrastructure</h4>
+      <p>Utilizing cloud services (like <b>AWS</b>) to build scalable, resilient, and highly available environments.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>IaC & Containers</h4>
+      <p>Managing and provisioning infrastructure through code (<b>Terraform</b>) and containerizing/orchestrating services (<b>Docker</b>, <b>Kubernetes</b>) for reproducible environments.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 

@@ -1,27 +1,22 @@
-<div align="center">
-  <!-- PLACE YOUR GIF WALLPAPER OR BANNER HERE -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner GIF Placeholder" width="100%" style="border-radius: 15px;" />
-</div>
-
 <br/>
 
 > [!NOTE]
-> Welcome to my GitHub profile! I'm constantly exploring new technologies and building projects that bridge the gap between development, operations, and security. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on open-source projects or discuss cloud infrastructure.
+> Welcome to my GitHub profile! I'm passionate about streamlining software delivery and managing robust infrastructure. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on open-source DevOps projects or discuss cloud infrastructure like AWS.
 
 <br/>
 
 <h1 align="center">Hi, I'm [Your Name]</h1>
-<h3 align="center">Fullstack Developer | DevOps & Cloud Engineer | Cyber Security Enthusiast</h3>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast</h3>
 
 <br/>
 
 ## About My Approach
 
-I believe in building secure, scalable, and maintainable systems from the ground up. My approach blends the rapid development of modern full-stack architectures with the robustness of cloud-native infrastructure, all while adhering to the principle of "Security by Design".
+I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
 
-* **Development Philosophy**: Striving for clean architecture and performant code. I enjoy working across the entire stack to deliver seamless user experiences.
-* **DevOps & Infrastructure**: Automating everything. I design CI/CD pipelines that enforce quality checks and streamline deployments. Infrastructure as Code (IaC) is my go-to for reproducible environments.
-* **Security Mindset**: Security isn't an afterthought. I proactively look for vulnerabilities, apply secure coding practices, and implement continuous security scanning (DevSecOps) to safeguard data and infrastructure.
+* **DevOps & CI/CD**: Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
+* **Cloud Infrastructure**: Utilizing cloud services (like AWS) to build scalable and highly available environments.
+* **Infrastructure as Code (IaC)**: Managing and provisioning infrastructure through code for reproducible and consistent environments.
 
 <br/>
 

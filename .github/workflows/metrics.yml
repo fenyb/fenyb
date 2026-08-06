@@ -99,6 +99,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: fenyyei
           plugin_anilist_medias: anime
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 2

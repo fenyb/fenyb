@@ -102,5 +102,5 @@ jobs:
           plugin_anilist_user: fenyyei
           plugin_anilist_medias: anime
           plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 2
+          plugin_anilist_limit_characters: 100
           plugin_anilist_shuffle: no

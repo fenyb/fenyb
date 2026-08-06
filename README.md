@@ -39,11 +39,11 @@ Managing and provisioning infrastructure through code (**Terraform**) and contai
 <br/>
 
 <div align="center">
-  <img src="assets/metrics/languages.svg" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/fenyb/fenyb/master/assets/metrics/languages.svg" alt="Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/metrics/anilist.svg" alt="Anilist Characters" />
+  <img src="https://raw.githubusercontent.com/fenyb/fenyb/master/assets/metrics/anilist.svg" alt="Anilist Characters" />
 </div>

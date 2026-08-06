@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Techin+%E2%80%94+Full+Stack+Developer;Building+with+React%2C+Next.js+%26+Laravel;Turning+ideas+into+production-ready+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Techin+%E2%80%94+DevOps+%26+Cloud+Enthusiast;Automating+with+CI%2FCD+%26+Infrastructure+as+Code;Building+on+AWS+with+Docker+%26+Kubernetes;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </div>
 
 ## About My Approach
 
 I believe in automating everything and building scalable, reliable systems. My approach focuses on bridging the gap between development and operations through robust CI/CD pipelines and infrastructure as code, primarily leveraging cloud platforms like AWS.
 
-**CI/CD & Deployment Automation**  
+**CI/CD & Deployment Automation**
 Automating the software development lifecycle. I design and implement pipelines that enforce quality checks and streamline deployments, ensuring fast and reliable software delivery.
 
-**Cloud Infrastructure**  
+**Cloud Infrastructure**
 Utilizing cloud services (like **AWS**) to build scalable, resilient, and highly available environments.
 
-**Infrastructure as Code (IaC) & Containers**  
+**Infrastructure as Code (IaC) & Containers**
 Managing and provisioning infrastructure through code (**Terraform**) and containerizing/orchestrating services (**Docker**, **Kubernetes**) for reproducible environments.
 
 <br/>
@@ -43,3 +43,7 @@ Managing and provisioning infrastructure through code (**Terraform**) and contai
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="assets/metrics/anilist.svg" alt="Anilist Characters" />
+</div>
